@@ -82,12 +82,6 @@
   align-items: flex-start;
 }
 
-.table{
-  margin:0;
-  padding:0;
-  list-style-type:none;
-}
-
 .two-colums{
   display: flex;
   width: 80%;
@@ -149,6 +143,9 @@
 }
 
 .table{
+  margin:0;
+  padding:0;
+  list-style-type:none;
   display:flex;
   width: 1100px;
   margin:0 auto;
@@ -231,7 +228,7 @@
 .kaufman{
   overflow: hidden;
   position: relative;
-  background-color: #1f1f1f
+  background-color: #1f1f1f;
 }
 
 .section-title_theme_dark{
