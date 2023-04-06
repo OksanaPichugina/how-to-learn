@@ -9,7 +9,6 @@
     font-family: 'Helvetica Neue', Arial, sans-serif;
   }
 
-  [href]:hover{
-    opacity:0.6;
-    
+  .hover:hover{
+    opacity:0.6; 
   }
